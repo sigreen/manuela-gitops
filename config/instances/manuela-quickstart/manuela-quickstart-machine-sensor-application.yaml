@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/sa-mw-dach/manuela-gitops.git
+    repoURL: https://github.com/sigreen/manuela-gitops
     targetRevision: master
     path: config/instances/manuela-quickstart/machine-sensor
   destination:
